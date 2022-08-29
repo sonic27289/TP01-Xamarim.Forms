@@ -4,22 +4,22 @@
              x:Class="TP01_Xamarim.Forms.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        <Frame BackgroundColor="#16F5F1" Padding="24" CornerRadius="0">
+            <Label Text="TP01 - Teste" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Entry x:Name="id"
-               Placeholder="Digite o ID"
+        <Entry x:Name="login"
+               Placeholder="Digite o Login"
                VerticalOptions="Center"/>
 
         <Entry x:Name="password"
-               Placeholder="Password"
+               Placeholder="Digite sua Senha"
                VerticalOptions="Center"
                IsPassword="True"/>
 
 
         <Button Text="OK" HorizontalOptions="Center" Clicked="Button_Clicked"/>
-        <Button Text="Limpar" HorizontalOptions="Center" Clicked="Button_Clicked_1"/>
-        <Button Text="Créditos" HorizontalOptions="Center" Clicked="Button_Clicked_2"/>
+        <Button Text="Limpar" HorizontalOptions="Center" Clicked="Button_Clicked_Limpar"/>
+        <Button Text="Créditos" HorizontalOptions="Center" Clicked="Button_Clicked_Creditos"/>
     </StackLayout>
 
 </ContentPage>

@@ -18,32 +18,30 @@ namespace TP01_Xamarim.Forms
         {
             try
             {
-                if (id.Text == "admin" && password.Text == "senha@dmin")
+                if (login.Text == "sonic" && password.Text == "sonic27289")
                 {
-                    DisplayAlert("Sucesso", "Login Com Sucesso", "OK");
+                    DisplayAlert("Login efetuado", "Concedido acesso ao sistema", "OK");
                 }
                 else
                 {
-                    DisplayAlert("Tente novamente", "Login não autorizado", "OK");
+                    DisplayAlert("Login mal efetuado", "Tente novamente", "OK");
                 }
             }
             catch
             {
-                DisplayAlert("Erro!", "Erro não indentificado", "OK");
+                DisplayAlert("Erro !", "Tente novamente", "OK");
             }
         }
 
-        private void Button_Clicked_1(object sender, EventArgs e)
+        private void Button_Clicked_Limpar(object sender, EventArgs e)
         {
-            //Limpar Entrys
-            id.Text = "";
+            login.Text = "";
             password.Text = "";
         }
 
-        private void Button_Clicked_2(object sender, EventArgs e)
+        private void Button_Clicked_Creditos(object sender, EventArgs e)
         {
-            //Creditos
-            DisplayAlert("Créditos", "Danilo Gabriel - cb3011798", "OK");
+            DisplayAlert("Créditos", "Gustavo Barbosa - CB3010627", "OK");
         }
     }
 }
