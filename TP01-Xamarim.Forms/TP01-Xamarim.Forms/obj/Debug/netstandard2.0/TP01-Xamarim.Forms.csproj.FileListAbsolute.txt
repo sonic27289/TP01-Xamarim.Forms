@@ -1,0 +1,14 @@
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\bin\Debug\netstandard2.0\TP01-Xamarim.Forms.deps.json
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\bin\Debug\netstandard2.0\TP01-Xamarim.Forms.dll
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\bin\Debug\netstandard2.0\ref\TP01-Xamarim.Forms.dll
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\bin\Debug\netstandard2.0\TP01-Xamarim.Forms.pdb
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\obj\Debug\netstandard2.0\TP01-Xamarim.Forms.csprojAssemblyReference.cache
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\obj\Debug\netstandard2.0\TP01-Xamarim.Forms.AssemblyInfoInputs.cache
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\obj\Debug\netstandard2.0\TP01-Xamarim.Forms.AssemblyInfo.cs
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\obj\Debug\netstandard2.0\TP01-Xamarim.Forms.csproj.CoreCompileInputs.cache
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\obj\Debug\netstandard2.0\TP01-Xamarim.Forms.dll
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\obj\Debug\netstandard2.0\ref\TP01-Xamarim.Forms.dll
+E:\Projetos\TP01-Xamarim.Forms\TP01-Xamarim.Forms\TP01-Xamarim.Forms\obj\Debug\netstandard2.0\TP01-Xamarim.Forms.pdb
